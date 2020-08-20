@@ -2,7 +2,7 @@
 
 A new Flutter UI demo project
 
-designed by [Rendi Ramadana](https://dribbble.com/Rendyramadana_)
+designed by [Rendi Ramadana](https://dribbble.com/shots/10769108-Medical-app-design)
 
 ## Getting Started
 
