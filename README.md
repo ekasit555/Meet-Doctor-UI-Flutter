@@ -1,6 +1,8 @@
-# meet_doctor
+# Meet Doctor
 
-A new Flutter project.
+A new Flutter UI demo project
+
+designed by [Rendi Ramadana](https://dribbble.com/Rendyramadana_)
 
 ## Getting Started
 
