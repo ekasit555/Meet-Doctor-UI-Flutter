@@ -16,7 +16,7 @@ class HeaderBar extends StatelessWidget {
           icon: Icon(Icons.list), 
           iconSize: 30,
           onPressed: (){
-            Navigator.push(
+            Navigator.pushReplacement(
               context,
               MaterialPageRoute(
                 builder: ((context) => WelcomeScreen())
