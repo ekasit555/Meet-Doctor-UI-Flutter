@@ -4,6 +4,16 @@ A new Flutter UI demo project
 
 designed by [Rendi Ramadana](https://dribbble.com/shots/10769108-Medical-app-design)
 
+## Screen Demo
+
+Landing Screen
+![alt text](https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/welcome.png)
+
+Home Page
+![alt text](https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/home1.png)
+![alt text](https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/home2.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
