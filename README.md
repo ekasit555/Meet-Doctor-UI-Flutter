@@ -7,7 +7,12 @@ designed by [Rendi Ramadana](https://dribbble.com/shots/10769108-Medical-app-des
 ## Screen Demo
 
 Landing Screen
-![](https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/welcome.png =150x)
+
+<img src="https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/welcome.png" alt="alt text" width="200px" height="">
+
+Home Screen
+
+<img src="https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/home1.png" alt="alt text" width="200px" height=""> <img src="https://github.com/ekasit555/Meet-Doctor-UI-Flutter/blob/master/assets/demo/home2.png" alt="alt text" width="200px" height="">
 
 
 
